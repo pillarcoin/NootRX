@@ -144,7 +144,7 @@
 			<key>PP_Run_DcBTC</key>
 			<integer>0</integer>
 			<key>PP_WorkLoadPolicyMask</key>
-			<integer>1</integer>
+			<integer>4</integer>
 			<key>SMU_DisallowedFeatures</key>
 			<integer>4</integer>
 		</dict>
